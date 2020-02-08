@@ -1,6 +1,8 @@
 title: Урбанистика и ML, две fail stories
 date: 2020-01-19 12:05:00
-tags: failed, wasted
+tags: 
+- failed
+- wasted
 
 ---
 

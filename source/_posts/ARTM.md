@@ -1,6 +1,8 @@
 title: Тематическое моделирование - разобраться
 date: 2020-01-24 19:10:00
-tags: topic modelling, ссылки
+tags: 
+- topic modelling
+- ссылки
 
 ---
 

@@ -1,6 +1,8 @@
 title: ElasticSearch крут
 date: 2020-01-21 13:50:00
-tags: elasticsearch, ссылки
+tags: 
+- elasticsearch
+- ссылки
 
 ---
 

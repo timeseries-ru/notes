@@ -1,6 +1,8 @@
 title: NER рабочий и инференс быстрый
 date: 2020-01-22 18:55:00
-tags: deeppavlov, ссылки
+tags: 
+- deeppavlov
+- ссылки
 
 ---
 

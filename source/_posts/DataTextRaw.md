@@ -1,6 +1,8 @@
 title: DataText - сырой и открытый
 date: 2020-01-19 16:20:00
-tags: to be done, work in progress
+tags: 
+- to be done
+- work in progress
 
 ---
 
